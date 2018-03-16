@@ -4,3 +4,9 @@ C:\CursoASP\Ajax\bin\PortalABD.pdb
 C:\CursoASP\Ajax\obj\Debug\PortalABD.csprojResolveAssemblyReference.cache
 C:\CursoASP\Ajax\obj\Debug\PortalABD.dll
 C:\CursoASP\Ajax\obj\Debug\PortalABD.pdb
+C:\CursoASP\Repositorios\PortalABD2\bin\PortalABD.dll.config
+C:\CursoASP\Repositorios\PortalABD2\bin\PortalABD.dll
+C:\CursoASP\Repositorios\PortalABD2\bin\PortalABD.pdb
+C:\CursoASP\Repositorios\PortalABD2\obj\Debug\PortalABD.csprojResolveAssemblyReference.cache
+C:\CursoASP\Repositorios\PortalABD2\obj\Debug\PortalABD.dll
+C:\CursoASP\Repositorios\PortalABD2\obj\Debug\PortalABD.pdb
