@@ -114,9 +114,22 @@
                                                   </tbody>
                                                 </table>
                                             </div>
-                                          <div class="collapse" id="addPrivilegios">
-                                            fffffffffffffffffffff
-                         
+
+                                          <div class="collapse " id="addPrivilegios"> 
+                                              <div class="form-group">
+                                              <label for="sel2">Mutiple select list (hold shift to select more than one):</label>
+                                              <select multiple class="form-control" id="sel2">
+                                                <option>1</option>
+                                                <option>2</option>
+                                                <option>3</option>
+                                                <option>4</option>
+                                                <option>5</option>
+                                              </select>
+                                            </div>
+                                         </div>
+                                         <!--Hola-->
+                                         <!--Hola-->
+
                                           </div>
                                          
                                     </form>
