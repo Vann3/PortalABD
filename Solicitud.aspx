@@ -164,6 +164,7 @@
         </div>
        <br/>
         <div class="row">
+
              <!--MENU vertical pantalla grande-->
             <div class="col-lg-2 col-lg-offset-1 hidden-xs hidden-sm hidden-md"> 
                 <div class="card" style="max-width: 18rem;">
@@ -175,7 +176,7 @@
                     </li>
                      <li class="list-group-item">Estatus: 
                           <div class="ui-widget">
-                            <select id="inputState" class="form-control">
+                            <select id="inputState" class="form-control selectpicker">
                                 <option value="0">Estatus...</option>
                                 <option value="ActionScript">Alta</option>
                                 <option value="AppleScript">Por autorizar</option>
@@ -214,7 +215,7 @@
              <form class="form-inline" role="form">
                   <div class="form-group">
                     <input type="text" class="form-control" id="ejemplo_email_2" placeholder="Solicitud"/>
-                  </div>
+                  </div> 
                   <div class="form-group">
                    <select id="inputState" class="form-control">
                                 <option value="0">Estatus...</option>
