@@ -108,15 +108,24 @@
                                                       <td>Vanessa Garcia Bolaños</td>
                                                       <td>ESPECIALISTA JR</td>
                                                       <td>vanet_gb@hotmail.com</td>
-                                                      <td><a href="#addPrivilegios" data-toggle="tab" title="Agregar privilegios"><span class="glyphicon glyphicon-plus"></span></a></td>
+                                                      <td><a href="#addPrivilegios" data-toggle="collapse" title="Agregar privilegios"><span class="glyphicon glyphicon-plus"></span></a></td>
                                                     </tr>
                                                    
                                                   </tbody>
                                                 </table>
                                             </div>
-                                          <div class="tab-pane fade" id="addPrivilegios">
-                                            fffffffffffffffffffff
-                          </div>
+                                          <div class="collapse " id="addPrivilegios"> 
+                                              <div class="form-group">
+                                              <label for="sel2">Mutiple select list (hold shift to select more than one):</label>
+                                              <select multiple class="form-control" id="sel2">
+                                                <option>1</option>
+                                                <option>2</option>
+                                                <option>3</option>
+                                                <option>4</option>
+                                                <option>5</option>
+                                              </select>
+                                            </div>
+                                         </div>
                                           </div>
                                          
                                     </form>
