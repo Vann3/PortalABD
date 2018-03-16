@@ -127,13 +127,12 @@
                                               </select>
                                             </div>
                                          </div>
-<<<<<<< HEAD
+
                                          <!--holaaaaaaa-->
-=======
                                          <!--Hola-->
                                          <!--Hola-->
 
->>>>>>> e13d2e958c55c99d9bc1f791cff69a8473ce49e0
+
                                           </div>
                                          
                                     </form>
