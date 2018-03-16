@@ -108,15 +108,15 @@
                                                       <td>Vanessa Garcia Bolaños</td>
                                                       <td>ESPECIALISTA JR</td>
                                                       <td>vanet_gb@hotmail.com</td>
-                                                      <td><a href="#addPrivilegios" data-toggle="tab" title="Agregar privilegios"><span class="glyphicon glyphicon-plus"></span></a></td>
+                                                      <td><a href="#addPrivilegios" data-toggle="collapse" title="Agregar privilegios"><span class="glyphicon glyphicon-plus"></span></a></td>
                                                     </tr>
                                                    
                                                   </tbody>
                                                 </table>
                                             </div>
-                                          <div class="tab-pane fade" id="addPrivilegios">
+                                          <div class="collapse" id="addPrivilegios">
                                             fffffffffffffffffffff
-                          </div>
+                         
                                           </div>
                                          
                                     </form>
