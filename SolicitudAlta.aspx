@@ -44,6 +44,57 @@
 		</div>			
 
 </div>
+<div id="AltaRoles" class="modal fade" role="dialog">
+   
+    <div class="modal-dialog">
+
+    <!-- Modal content-->
+	<div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+	</div>
+			<div class="md-content">
+               <h3>Nuevo rol</h3>
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="form-group">
+                            <input type="text" class="form-control"/>
+                        </div>
+                    </div>
+                </div>
+                 <div class='table-responsive'>
+                    <table class="table">
+                    <thead>
+                    <tr>
+                       <th scope="col" style="text-align:center;"></th>
+                       <th></th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                     <tr>
+                       <td>Administrador</td>
+                         <td><span class="glyphicon glyphicon-trash"></span></td>
+                      
+                     </tr>
+                    <tr>
+                       <td>Autorizador</td>
+                        <td><span class="glyphicon glyphicon-trash"></span></td>
+                    </tr>
+                    <tr>
+                       <td>Solicitante</td>
+                        <td><span class="glyphicon glyphicon-trash"></span></td>
+                    </tr>
+                    <tr>
+                       <td>Recurso</td>
+                        <td><span class="glyphicon glyphicon-trash"></span></td>
+                    </tr>
+                    
+                    </tbody>
+                    </table>
+                  </div>
+			</div>
+		</div>			
+
+</div>
        <div class="row">
          <div class="col-lg-12">   
              <nav class="navbar navbar-default ">
@@ -124,7 +175,7 @@
                                           <div class="collapse " id="addPrivilegios"> 
                                               <div class="form-group col-lg-3">
                                                   <label for="sel2">Selecciona los privilegios que debe de tener</label>
-                                                  <select multiple class="form-control" id="sel2">
+                                                  <select multiple class="form-control" id="">
                                                     <option>Administrador   - 1</option>
                                                     <option>Autorizador     - 2</option>
                                                     <option>Solicitante     - 3</option>
@@ -133,8 +184,8 @@
                                                   </select>
                                             </div>
                                               <div class="form-group col-lg-2">
-                                                  <a href="#"><span class="glyphicon glyphicon-floppy-disk"> Guardar</span></a>
-                                                   <a href="#"><span class="glyphicon glyphicon-floppy-disk"> Guardar</span></a>
+                                                  <a href="#"><span class="glyphicon glyphicon-floppy-disk"> Guardar</span></a><br/>
+                                                   <a href="#"><span class="glyphicon glyphicon-plus" data-toggle="modal" data-target="#AltaRoles" > NuevoRol</span></a>
                                                    
                                             </div>
                                          </div>
@@ -207,6 +258,9 @@
                             <!--TAB ALTA SOLICITUD-->
 
                           <div class="tab-pane fade col-lg-10 col-lg-offset-1 " id="solicitudesPanel">
+                              <div class="panel panel-info">
+                              <div class="panel-heading">Alta de Solicitudes</div>
+                              <div class="panel-body">
                             <!--Codigo de formulario-->
                             <form class="needs-validation" novalidate>
                             <div class="form-row">
@@ -286,6 +340,10 @@
 									</div>
 								</div>
 							</div>
+                            </form>
+                            </div>
+                            </div>
+                            </div>
                         </div>
                     </div>
                 </div>
