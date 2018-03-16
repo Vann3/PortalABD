@@ -10,3 +10,10 @@ C:\CursoASP\Repositorios\PortalABD2\bin\PortalABD.pdb
 C:\CursoASP\Repositorios\PortalABD2\obj\Debug\PortalABD.csprojResolveAssemblyReference.cache
 C:\CursoASP\Repositorios\PortalABD2\obj\Debug\PortalABD.dll
 C:\CursoASP\Repositorios\PortalABD2\obj\Debug\PortalABD.pdb
+C:\Users\dtorres\Desktop\PortalABD2\bin\PortalABD.dll.config
+C:\Users\dtorres\Desktop\PortalABD2\bin\PortalABD.dll
+C:\Users\dtorres\Desktop\PortalABD2\bin\PortalABD.pdb
+C:\Users\dtorres\Desktop\PortalABD2\obj\Debug\PortalABD.csprojResolveAssemblyReference.cache
+C:\Users\dtorres\Desktop\PortalABD2\obj\Debug\PortalABD.csproj.CoreCompileInputs.cache
+C:\Users\dtorres\Desktop\PortalABD2\obj\Debug\PortalABD.dll
+C:\Users\dtorres\Desktop\PortalABD2\obj\Debug\PortalABD.pdb
