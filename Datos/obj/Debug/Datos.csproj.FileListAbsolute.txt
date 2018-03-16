@@ -1,0 +1,5 @@
+C:\CursoASP\Ajax\Datos\bin\Debug\Datos.dll
+C:\CursoASP\Ajax\Datos\bin\Debug\Datos.pdb
+C:\CursoASP\Ajax\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\CursoASP\Ajax\Datos\obj\Debug\Datos.dll
+C:\CursoASP\Ajax\Datos\obj\Debug\Datos.pdb

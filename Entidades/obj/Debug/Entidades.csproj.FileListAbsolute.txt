@@ -1,0 +1,5 @@
+C:\CursoASP\Ajax\Entidades\bin\Debug\Entidades.dll
+C:\CursoASP\Ajax\Entidades\bin\Debug\Entidades.pdb
+C:\CursoASP\Ajax\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\CursoASP\Ajax\Entidades\obj\Debug\Entidades.dll
+C:\CursoASP\Ajax\Entidades\obj\Debug\Entidades.pdb

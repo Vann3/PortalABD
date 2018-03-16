@@ -1,0 +1,6 @@
+C:\CursoASP\Ajax\bin\PortalABD.dll.config
+C:\CursoASP\Ajax\bin\PortalABD.dll
+C:\CursoASP\Ajax\bin\PortalABD.pdb
+C:\CursoASP\Ajax\obj\Debug\PortalABD.csprojResolveAssemblyReference.cache
+C:\CursoASP\Ajax\obj\Debug\PortalABD.dll
+C:\CursoASP\Ajax\obj\Debug\PortalABD.pdb

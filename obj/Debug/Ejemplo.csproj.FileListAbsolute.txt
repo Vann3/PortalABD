@@ -1,0 +1,6 @@
+C:\CursoASP\Ajax\bin\Ejemplo.dll.config
+C:\CursoASP\Ajax\bin\Ejemplo.dll
+C:\CursoASP\Ajax\bin\Ejemplo.pdb
+C:\CursoASP\Ajax\obj\Debug\Ejemplo.dll
+C:\CursoASP\Ajax\obj\Debug\Ejemplo.pdb
+C:\CursoASP\Ajax\obj\Debug\Ejemplo.csprojResolveAssemblyReference.cache
