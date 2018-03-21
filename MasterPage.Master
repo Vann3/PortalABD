@@ -29,6 +29,10 @@
               <asp:ContentPlaceHolder ID="AltaSolicitud" runat="server">
         </asp:ContentPlaceHolder>
         </div>
+    <div class="row">
+              <asp:ContentPlaceHolder ID="Recurso" runat="server">
+        </asp:ContentPlaceHolder>
+        </div>
     <div class="main container">
         <div class="row">
 	        <div id="Encabezado">

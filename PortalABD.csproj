@@ -188,6 +188,7 @@
     <Content Include="js\npm.js" />
     <Content Include="js\sidebar_menu.js" />
     <Content Include="js\snap.svg-min.js" />
+    <Content Include="Recurso.aspx" />
     <Content Include="Solicitud.aspx" />
     <Content Include="SolicitudAlta.aspx" />
     <Content Include="Web.config">
@@ -228,6 +229,13 @@
       <AutoGen>True</AutoGen>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
       <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Recurso.aspx.cs">
+      <DependentUpon>Recurso.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Recurso.aspx.designer.cs">
+      <DependentUpon>Recurso.aspx</DependentUpon>
     </Compile>
     <Compile Include="Solicitud.aspx.cs">
       <DependentUpon>Solicitud.aspx</DependentUpon>
