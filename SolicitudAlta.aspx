@@ -118,9 +118,10 @@
                
                     <div class="panel-heading with-nav-tabs">
                         <ul class="nav nav-tabs">                          
-                           <li class="active"><a href="#usuariosPanel" data-toggle="tab">Usuarios</a></li>
+                           <li class="active"><a href="#usuariosPanel" data-toggle="tab">Usuarios \ Recursos</a></li>
                            <li><a href="#areasPanel" data-toggle="tab">Areas / Servicios</a></li>
                            <li><a href="#solicitudesPanel" data-toggle="tab">Solicitudes</a></li>
+                      
                         </ul>     
                     </div>
                     <div class="panel-body">
@@ -129,16 +130,16 @@
                         <!--TAB ALTA USUARIOS-->
                         <div class="tab-pane fade in active col-lg-10 col-lg-offset-1" id="usuariosPanel">                           
                             <div class="panel panel-info">
-                              <div class="panel-heading">Dar de alta un usuario</div>
+                              <div class="panel-heading">ALTA DE USUARIOS AL SISTEMA</div>
                               <div class="panel-body">
-                                  <form>
+                                   <form>
                                      <div class="form-row">
                                          <div class="form-group col-md-3">
-                                          <label for="inputCity">Número de nómina</label>
+                                          <label for="inputCity">Buscar por número de nómina</label>
                                           <input type="text" class="form-control"/>
                                         </div>
                                         <div class="form-group col-md-3">
-                                          <label for="inputCity">Buscar empleado</label>
+                                          <label for="inputCity">Buscar por nombre de empleado</label>
                                           <input type="text" class="form-control"/>
                                         </div>
                                             <div class="form-group col-md-6">
@@ -195,9 +196,67 @@
                                     </form>
                               </div>
                             </div>
+                            <div class="panel panel-info">
+                              <div class="panel-heading">ALTA DE RECURSOS AJENOS AL SISTEMA</div>
+                              <div class="panel-body">
+                                  <form>
+                                     <div class="form-row">
+                                         <div class="form-group col-md-3">
+                                          <label for="inputCity">Buscar por número de nómina</label>
+                                          <input type="text" class="form-control"/>
+                                        </div>
+                                        <div class="form-group col-md-3">
+                                          <label for="inputCity">Buscar por nombre de empleado</label>
+                                          <input type="text" class="form-control"/>
+                                        </div>
+                                            <div class="form-group col-md-3">
+                                              <label for="inputState">Empleados</label>
+                                              <select id="inputState" class="form-control selectpicker">
+                                                <option selected>Choose...</option>
+                                                <option>...</option>
+                                              </select>
+                                            </div>
+                                          <div class="form-group col-md-3">
+                                              <label for="inputState">Área</label>
+                                                <input type="text" class="form-control"/>
+                                            </div>
+                                            <div class="col-lg-7 table-sm table-responsive">
+                                                <table class="table">
+                                                  <thead>
+                                                    <tr>                                                     
+                                                      <th scope="col">Nombre</th>
+                                                      <th scope="col">Puesto</th>
+                                                      <th scope="col">Correo</th>
+                                                      <th scope="col">Área</th>
+                                                      <th scope="col"></th>
+                                                    </tr>
+                                                  </thead>
+                                                  <tbody>
+                                                    <tr>
+                                                      <td>Antonio Fonseca Gonzalez</td>
+                                                      <td>ESPECIALISTA SR</td>
+                                                      <td>afonseca@grupoandrea.com</td>
+                                                      <td>Infraestructura</td>
+                                               
+                                                    </tr>
+                                                   
+                                                  </tbody>
+                                                </table>
+                                            </div>
+               
+                                              <div class="form-group col-lg-2"><br/><br/>
+                                                  <a href="#"><span class="glyphicon glyphicon-floppy-disk"> Guardar</span></a><br/>
+                                                 
+                                            </div>
+                                         
+                                          </div>
+                                         
+                                    </form>
+                              </div>
+                            </div>
                         </div>
                        
-                       
+                        
                          <!--TAB ALTA AREAS / SERVICIOS-->
                         <div class="tab-pane fadE col-lg-10 col-lg-offset-1" id="areasPanel">                           
                             <div class="panel panel-default">

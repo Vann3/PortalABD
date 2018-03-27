@@ -3,3 +3,8 @@ C:\CursoASP\Ajax\Negocio\bin\Debug\Negocio.pdb
 C:\CursoASP\Ajax\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
 C:\CursoASP\Ajax\Negocio\obj\Debug\Negocio.dll
 C:\CursoASP\Ajax\Negocio\obj\Debug\Negocio.pdb
+C:\CursoASP\Repositorios\PortalABD2\Negocio\bin\Debug\Negocio.dll
+C:\CursoASP\Repositorios\PortalABD2\Negocio\bin\Debug\Negocio.pdb
+C:\CursoASP\Repositorios\PortalABD2\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\CursoASP\Repositorios\PortalABD2\Negocio\obj\Debug\Negocio.dll
+C:\CursoASP\Repositorios\PortalABD2\Negocio\obj\Debug\Negocio.pdb

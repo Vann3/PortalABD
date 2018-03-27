@@ -3,3 +3,8 @@ C:\CursoASP\Conexion\bin\Debug\Conexion.pdb
 C:\CursoASP\Conexion\obj\Debug\Conexion.csprojResolveAssemblyReference.cache
 C:\CursoASP\Conexion\obj\Debug\Conexion.dll
 C:\CursoASP\Conexion\obj\Debug\Conexion.pdb
+C:\CursoASP\Repositorios\PortalABD2\Conexion\bin\Debug\Conexion.dll
+C:\CursoASP\Repositorios\PortalABD2\Conexion\bin\Debug\Conexion.pdb
+C:\CursoASP\Repositorios\PortalABD2\Conexion\obj\Debug\Conexion.csprojResolveAssemblyReference.cache
+C:\CursoASP\Repositorios\PortalABD2\Conexion\obj\Debug\Conexion.dll
+C:\CursoASP\Repositorios\PortalABD2\Conexion\obj\Debug\Conexion.pdb

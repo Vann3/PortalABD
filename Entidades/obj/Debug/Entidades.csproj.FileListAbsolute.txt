@@ -3,3 +3,8 @@ C:\CursoASP\Ajax\Entidades\bin\Debug\Entidades.pdb
 C:\CursoASP\Ajax\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
 C:\CursoASP\Ajax\Entidades\obj\Debug\Entidades.dll
 C:\CursoASP\Ajax\Entidades\obj\Debug\Entidades.pdb
+C:\CursoASP\Repositorios\PortalABD2\Entidades\bin\Debug\Entidades.dll
+C:\CursoASP\Repositorios\PortalABD2\Entidades\bin\Debug\Entidades.pdb
+C:\CursoASP\Repositorios\PortalABD2\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\CursoASP\Repositorios\PortalABD2\Entidades\obj\Debug\Entidades.dll
+C:\CursoASP\Repositorios\PortalABD2\Entidades\obj\Debug\Entidades.pdb

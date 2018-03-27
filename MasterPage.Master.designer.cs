@@ -31,15 +31,6 @@ namespace PortalABD {
         protected global::System.Web.UI.WebControls.ContentPlaceHolder Solicitudes;
         
         /// <summary>
-        /// Control AltaSolicitud.
-        /// </summary>
-        /// <remarks>
-        /// Campo generado automáticamente.
-        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.ContentPlaceHolder AltaSolicitud;
-        
-        /// <summary>
         /// Control Recurso.
         /// </summary>
         /// <remarks>
@@ -47,6 +38,15 @@ namespace PortalABD {
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.WebControls.ContentPlaceHolder Recurso;
+        
+        /// <summary>
+        /// Control AltaSolicitud.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.ContentPlaceHolder AltaSolicitud;
         
         /// <summary>
         /// Control Principal.

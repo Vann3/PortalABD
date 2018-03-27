@@ -211,6 +211,8 @@
                   </ul>
                 </div>
             </div>
+
+      
           <!--MENU vertical pantalla chica-->
           <div class="col-sm-11 col-sm-offset-1 visible-xs visible-sm visible-md"> 
              <form class="form-inline" role="form">
@@ -246,6 +248,7 @@
               </form>
             </div>
             <br/> <br/><br/>
+          
             <div class="col-lg-7 col-md-9 col-sm-12">
             <div class='table-responsive'>
                 <table class="table table-hover">
@@ -288,7 +291,7 @@
                       <td>----</td>
                       <td>----</td> 
                       <td>----</td>            
-                      <td><a href="#" title="Asignar recurso"><span class="glyphicon glyphicon-user" aria-hidden="true" data-toggle="modal" data-target="#myModal"></span></a></td>
+                      <td><a href="Recurso.aspx" title="Asignar recurso"><span class="glyphicon glyphicon-user" aria-hidden="true"></span></a></td>
                       <td><a href="#" title="Ver detalle"><span class="glyphicon glyphicon-search" aria-hidden="true" data-toggle="modal" data-target="#myModal"></span></a></td>
                     </tr>
                    
@@ -296,5 +299,6 @@
                 </table>
             </div>
             </div>
-          </div>
+            </div>
+         
     </asp:Content>
